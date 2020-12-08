@@ -1,0 +1,17 @@
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome.Tests/obj/Debug/netcoreapp2.2/Palindrome.Tests.csprojAssemblyReference.cache
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome.Tests/obj/Debug/netcoreapp2.2/Palindrome.Tests.csproj.CoreCompileInputs.cache
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome.Tests/obj/Debug/netcoreapp2.2/Palindrome.Tests.AssemblyInfoInputs.cache
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome.Tests/obj/Debug/netcoreapp2.2/Palindrome.Tests.AssemblyInfo.cs
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome.Tests/bin/Debug/netcoreapp2.2/Palindrome.Tests.deps.json
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome.Tests/bin/Debug/netcoreapp2.2/Palindrome.Tests.runtimeconfig.json
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome.Tests/bin/Debug/netcoreapp2.2/Palindrome.Tests.runtimeconfig.dev.json
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome.Tests/bin/Debug/netcoreapp2.2/Palindrome.Tests.dll
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome.Tests/bin/Debug/netcoreapp2.2/Palindrome.Tests.pdb
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome.Tests/bin/Debug/netcoreapp2.2/Palindrome.dll
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome.Tests/bin/Debug/netcoreapp2.2/Palindrome.pdb
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome.Tests/obj/Debug/netcoreapp2.2/Palindrome.Tests.csproj.CopyComplete
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome.Tests/obj/Debug/netcoreapp2.2/Palindrome.Tests.dll
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome.Tests/obj/Debug/netcoreapp2.2/Palindrome.Tests.pdb

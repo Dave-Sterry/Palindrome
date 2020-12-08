@@ -1,12 +1,16 @@
-using Microsoft.VisualStudio.TestsTools.UnitTesting;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Palindrome;
 
-namespace Backwards.TestsTools
+namespace Palindrome.Tests
 {
   [TestClass]
   public class BackwardsTests
   {
     [TestMethod]
-    //test
+    public void ReverseInput_TakesUserInput_True()
+    {
+      Backwards testInput = new Backwards();
+      Assert.AreEqual(true, testInput.ReverseInput("string"));
+    }
   }
 }

@@ -1,0 +1,11 @@
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome/obj/Debug/netcoreapp2.2/Palindrome.csprojAssemblyReference.cache
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome/obj/Debug/netcoreapp2.2/Palindrome.csproj.CoreCompileInputs.cache
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome/obj/Debug/netcoreapp2.2/Palindrome.AssemblyInfoInputs.cache
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome/obj/Debug/netcoreapp2.2/Palindrome.AssemblyInfo.cs
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome/bin/Debug/netcoreapp2.2/Palindrome.deps.json
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome/bin/Debug/netcoreapp2.2/Palindrome.dll
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome/bin/Debug/netcoreapp2.2/Palindrome.pdb
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome/obj/Debug/netcoreapp2.2/Palindrome.dll
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome/obj/Debug/netcoreapp2.2/Palindrome.pdb
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome/bin/Debug/netcoreapp2.2/Palindrome.runtimeconfig.json
+/Users/Dsterry/Desktop/Epicodus/Palindrome.Solution/Palindrome/bin/Debug/netcoreapp2.2/Palindrome.runtimeconfig.dev.json
